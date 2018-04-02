@@ -1,0 +1,22 @@
+.jtable-toolbar,.jtable-command-column,.jtable-command-column-header,.jtable-toolbar{
+	display:none
+}
+.jtable-title-text a{
+	color:#444;
+	text-decoration: none;
+}
+div.jtable-main-container > table.jtable > thead th.jtable-column-header-sortable div.jtable-column-header-container{
+	background-image: none;
+}
+
+td{
+	font-size: smaller;
+	/*background-color: red;*/
+}
+*{
+	font-family: sans-serif;
+}
+
+.noPrint{
+	display:none;
+}

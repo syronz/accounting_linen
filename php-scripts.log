@@ -1,0 +1,125 @@
+[08-Jun-2014 10:17:20 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '=' in /var/www/html/pharmacy/about.php on line 2
+[08-Jun-2014 10:17:21 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '=' in /var/www/html/pharmacy/about.php on line 2
+[08-Jun-2014 10:17:21 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '=' in /var/www/html/pharmacy/about.php on line 2
+[08-Jun-2014 10:17:22 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '=' in /var/www/html/pharmacy/about.php on line 2
+[08-Jun-2014 10:45:14 Asia/Baghdad] PHP Notice:  Undefined variable: data in /var/www/html/pharmacy/class/database.class.php on line 269
+[08-Jun-2014 10:45:14 Asia/Baghdad] PHP Warning:  http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given in /var/www/html/pharmacy/class/database.class.php on line 318
+[08-Jun-2014 10:53:05 Asia/Baghdad] PHP Notice:  Undefined variable: data in /var/www/html/pharmacy/class/cash.class.php on line 165
+[08-Jun-2014 10:53:05 Asia/Baghdad] PHP Notice:  Undefined variable: before in /var/www/html/pharmacy/class/cash.class.php on line 174
+[08-Jun-2014 10:53:05 Asia/Baghdad] PHP Notice:  Undefined variable: before in /var/www/html/pharmacy/class/cash.class.php on line 175
+[08-Jun-2014 10:53:05 Asia/Baghdad] PHP Warning:  http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given in /var/www/html/pharmacy/class/database.class.php on line 318
+[08-Jun-2014 10:54:14 Asia/Baghdad] PHP Notice:  Undefined variable: data in /var/www/html/pharmacy/class/cash.class.php on line 165
+[08-Jun-2014 10:54:14 Asia/Baghdad] PHP Warning:  http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given in /var/www/html/pharmacy/class/database.class.php on line 318
+[08-Jun-2014 10:54:40 Asia/Baghdad] PHP Warning:  http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given in /var/www/html/pharmacy/class/database.class.php on line 318
+[08-Jun-2014 11:26:44 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$jTableResult' (T_VARIABLE) in /var/www/html/pharmacy/class/payin.class.php on line 45
+[08-Jun-2014 11:26:46 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$jTableResult' (T_VARIABLE) in /var/www/html/pharmacy/class/payin.class.php on line 45
+[08-Jun-2014 11:26:57 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$jTableResult' (T_VARIABLE) in /var/www/html/pharmacy/class/payin.class.php on line 45
+[08-Jun-2014 11:27:04 Asia/Riyadh] PHP Parse error:  syntax error, unexpected '$jTableResult' (T_VARIABLE) in /var/www/html/pharmacy/class/payin.class.php on line 45
+[08-Jun-2014 11:40:47 Asia/Baghdad] PHP Notice:  Undefined index: not_add_to_cash in /var/www/html/pharmacy/class/payin.class.php on line 45
+[08-Jun-2014 11:46:55 Asia/Baghdad] PHP Notice:  Undefined index: not_add_to_cash in /var/www/html/pharmacy/class/payin.class.php on line 97
+[08-Jun-2014 11:46:55 Asia/Baghdad] PHP Notice:  Trying to get property of non-object in /var/www/html/pharmacy/class/payin.class.php on line 100
+[08-Jun-2014 11:46:55 Asia/Baghdad] PHP Warning:  http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given in /var/www/html/pharmacy/class/database.class.php on line 318
+[08-Jun-2014 11:47:54 Asia/Baghdad] PHP Notice:  Undefined index: not_add_to_cash in /var/www/html/pharmacy/class/payin.class.php on line 97
+[08-Jun-2014 11:53:18 Asia/Baghdad] PHP Notice:  Undefined index: permission in /var/www/html/diwan/include/ribbon.php on line 6
+[08-Jun-2014 11:53:18 Asia/Baghdad] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/diwan/include/ribbon.php on line 6
+[08-Jun-2014 11:53:18 Asia/Baghdad] PHP Notice:  Undefined index: id_department in /var/www/html/diwan/include/ribbon.php on line 219
+[08-Jun-2014 12:00:42 Asia/Baghdad] PHP Notice:  Undefined index: not_add_to_cash in /var/www/html/pharmacy/class/payin.class.php on line 45
+[08-Jun-2014 13:38:10 Asia/Baghdad] PHP Notice:  Undefined index: permission in /var/www/html/diwan/include/ribbon.php on line 6
+[08-Jun-2014 13:38:10 Asia/Baghdad] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/diwan/include/ribbon.php on line 6
+[08-Jun-2014 13:38:10 Asia/Baghdad] PHP Notice:  Undefined index: id_department in /var/www/html/diwan/include/ribbon.php on line 219
+[08-Jun-2014 14:22:36 Asia/Baghdad] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(../backups/): failed to open dir: No such file or directory' in /var/www/html/pharmacy/class/backup.class.php:12
+Stack trace:
+#0 /var/www/html/pharmacy/class/backup.class.php(12): RecursiveDirectoryIterator->__construct('../backups/')
+#1 /var/www/html/pharmacy/control/backup.control.php(9): backup::lists('id DESC', '0', '10', 'backup')
+#2 {main}
+  thrown in /var/www/html/pharmacy/class/backup.class.php on line 12
+[08-Jun-2014 14:22:41 Asia/Baghdad] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'RecursiveDirectoryIterator::__construct(../backups/): failed to open dir: No such file or directory' in /var/www/html/pharmacy/class/backup.class.php:12
+Stack trace:
+#0 /var/www/html/pharmacy/class/backup.class.php(12): RecursiveDirectoryIterator->__construct('../backups/')
+#1 /var/www/html/pharmacy/control/backup.control.php(9): backup::lists('id DESC', '0', '10', 'backup')
+#2 {main}
+  thrown in /var/www/html/pharmacy/class/backup.class.php on line 12
+[08-Jun-2014 14:29:52 Asia/Baghdad] PHP Fatal error:  Undefined class constant 'DATABASE_NAME' in /var/www/html/pharmacy/class/backup.class.php on line 71
+[08-Jun-2014 14:33:22 Asia/Baghdad] PHP Warning:  http_build_query(): Parameter 1 expected to be Array or Object.  Incorrect value given in /var/www/html/pharmacy/class/database.class.php on line 318
+[08-Jun-2014 14:39:24 Asia/Baghdad] PHP Fatal error:  Undefined class constant 'DATABASE_NAME' in /var/www/html/pharmacy/class/backup.class.php on line 73
+[08-Jun-2014 15:10:23 Asia/Baghdad] PHP Notice:  Undefined index: inyDate in /var/www/html/pharmacy/class/backup.class.php on line 37
+[08-Jun-2014 15:10:23 Asia/Baghdad] PHP Notice:  Undefined index: inyDate in /var/www/html/pharmacy/class/backup.class.php on line 37
+[08-Jun-2014 15:10:23 Asia/Baghdad] PHP Notice:  Undefined index: inyDate in /var/www/html/pharmacy/class/backup.class.php on line 37
+[08-Jun-2014 15:10:23 Asia/Baghdad] PHP Notice:  Undefined index: inyDate in /var/www/html/pharmacy/class/backup.class.php on line 37
+[08-Jun-2014 15:10:23 Asia/Baghdad] PHP Notice:  Undefined index: inyDate in /var/www/html/pharmacy/class/backup.class.php on line 37
+[08-Jun-2014 15:10:23 Asia/Baghdad] PHP Notice:  Undefined index: inyDate in /var/www/html/pharmacy/class/backup.class.php on line 37
+[08-Jun-2014 15:10:23 Asia/Baghdad] PHP Notice:  Undefined index: inyDate in /var/www/html/pharmacy/class/backup.class.php on line 37
+[08-Jun-2014 15:10:23 Asia/Baghdad] PHP Notice:  Undefined index: inyDate in /var/www/html/pharmacy/class/backup.class.php on line 37
+[08-Jun-2014 15:10:23 Asia/Baghdad] PHP Notice:  Undefined index: inyDate in /var/www/html/pharmacy/class/backup.class.php on line 37
+[08-Jun-2014 15:12:36 Asia/Baghdad] PHP Notice:  Undefined offset: 0 in /var/www/html/pharmacy/class/backup.class.php on line 52
+[08-Jun-2014 15:12:36 Asia/Baghdad] PHP Notice:  Undefined offset: 1 in /var/www/html/pharmacy/class/backup.class.php on line 52
+[08-Jun-2014 15:12:36 Asia/Baghdad] PHP Notice:  Undefined offset: 2 in /var/www/html/pharmacy/class/backup.class.php on line 52
+[08-Jun-2014 15:12:36 Asia/Baghdad] PHP Notice:  Undefined offset: 3 in /var/www/html/pharmacy/class/backup.class.php on line 52
+[08-Jun-2014 15:12:36 Asia/Baghdad] PHP Notice:  Undefined offset: 4 in /var/www/html/pharmacy/class/backup.class.php on line 52
+[08-Jun-2014 15:12:36 Asia/Baghdad] PHP Notice:  Undefined offset: 5 in /var/www/html/pharmacy/class/backup.class.php on line 52
+[08-Jun-2014 15:12:36 Asia/Baghdad] PHP Notice:  Undefined offset: 6 in /var/www/html/pharmacy/class/backup.class.php on line 52
+[08-Jun-2014 15:12:36 Asia/Baghdad] PHP Notice:  Undefined offset: 7 in /var/www/html/pharmacy/class/backup.class.php on line 52
+[08-Jun-2014 15:13:58 Asia/Baghdad] PHP Notice:  Undefined offset: 0 in /var/www/html/pharmacy/class/backup.class.php on line 53
+[08-Jun-2014 15:13:58 Asia/Baghdad] PHP Notice:  Undefined offset: 1 in /var/www/html/pharmacy/class/backup.class.php on line 53
+[08-Jun-2014 15:13:58 Asia/Baghdad] PHP Notice:  Undefined offset: 2 in /var/www/html/pharmacy/class/backup.class.php on line 53
+[08-Jun-2014 15:13:58 Asia/Baghdad] PHP Notice:  Undefined offset: 3 in /var/www/html/pharmacy/class/backup.class.php on line 53
+[08-Jun-2014 15:13:58 Asia/Baghdad] PHP Notice:  Undefined offset: 4 in /var/www/html/pharmacy/class/backup.class.php on line 53
+[08-Jun-2014 15:13:58 Asia/Baghdad] PHP Notice:  Undefined offset: 5 in /var/www/html/pharmacy/class/backup.class.php on line 53
+[08-Jun-2014 15:13:58 Asia/Baghdad] PHP Notice:  Undefined offset: 6 in /var/www/html/pharmacy/class/backup.class.php on line 53
+[08-Jun-2014 15:13:58 Asia/Baghdad] PHP Notice:  Undefined offset: 7 in /var/www/html/pharmacy/class/backup.class.php on line 53
+[08-Jun-2014 15:14:31 Asia/Baghdad] PHP Notice:  Undefined offset: 0 in /var/www/html/pharmacy/class/backup.class.php on line 53
+[08-Jun-2014 15:14:31 Asia/Baghdad] PHP Notice:  Undefined offset: 1 in /var/www/html/pharmacy/class/backup.class.php on line 53
+[08-Jun-2014 15:14:31 Asia/Baghdad] PHP Notice:  Undefined offset: 2 in /var/www/html/pharmacy/class/backup.class.php on line 53
+[08-Jun-2014 15:14:31 Asia/Baghdad] PHP Notice:  Undefined offset: 3 in /var/www/html/pharmacy/class/backup.class.php on line 53
+[08-Jun-2014 15:14:31 Asia/Baghdad] PHP Notice:  Undefined offset: 4 in /var/www/html/pharmacy/class/backup.class.php on line 53
+[08-Jun-2014 15:14:31 Asia/Baghdad] PHP Notice:  Undefined offset: 5 in /var/www/html/pharmacy/class/backup.class.php on line 53
+[08-Jun-2014 15:14:31 Asia/Baghdad] PHP Notice:  Undefined offset: 6 in /var/www/html/pharmacy/class/backup.class.php on line 53
+[08-Jun-2014 15:14:31 Asia/Baghdad] PHP Notice:  Undefined offset: 7 in /var/www/html/pharmacy/class/backup.class.php on line 53
+[08-Jun-2014 15:16:45 Asia/Baghdad] PHP Notice:  Undefined offset: 0 in /var/www/html/pharmacy/class/backup.class.php on line 57
+[08-Jun-2014 15:16:45 Asia/Baghdad] PHP Notice:  Undefined offset: 1 in /var/www/html/pharmacy/class/backup.class.php on line 57
+[08-Jun-2014 15:16:45 Asia/Baghdad] PHP Notice:  Undefined offset: 2 in /var/www/html/pharmacy/class/backup.class.php on line 57
+[08-Jun-2014 15:16:45 Asia/Baghdad] PHP Notice:  Undefined offset: 3 in /var/www/html/pharmacy/class/backup.class.php on line 57
+[08-Jun-2014 15:16:45 Asia/Baghdad] PHP Notice:  Undefined offset: 4 in /var/www/html/pharmacy/class/backup.class.php on line 57
+[08-Jun-2014 15:16:45 Asia/Baghdad] PHP Notice:  Undefined offset: 5 in /var/www/html/pharmacy/class/backup.class.php on line 57
+[08-Jun-2014 15:16:45 Asia/Baghdad] PHP Notice:  Undefined offset: 6 in /var/www/html/pharmacy/class/backup.class.php on line 57
+[08-Jun-2014 15:16:45 Asia/Baghdad] PHP Notice:  Undefined offset: 7 in /var/www/html/pharmacy/class/backup.class.php on line 57
+[08-Jun-2014 15:16:46 Asia/Baghdad] PHP Notice:  Undefined offset: 0 in /var/www/html/pharmacy/class/backup.class.php on line 57
+[08-Jun-2014 15:16:46 Asia/Baghdad] PHP Notice:  Undefined offset: 1 in /var/www/html/pharmacy/class/backup.class.php on line 57
+[08-Jun-2014 15:16:46 Asia/Baghdad] PHP Notice:  Undefined offset: 2 in /var/www/html/pharmacy/class/backup.class.php on line 57
+[08-Jun-2014 15:16:46 Asia/Baghdad] PHP Notice:  Undefined offset: 3 in /var/www/html/pharmacy/class/backup.class.php on line 57
+[08-Jun-2014 15:16:46 Asia/Baghdad] PHP Notice:  Undefined offset: 4 in /var/www/html/pharmacy/class/backup.class.php on line 57
+[08-Jun-2014 15:16:46 Asia/Baghdad] PHP Notice:  Undefined offset: 5 in /var/www/html/pharmacy/class/backup.class.php on line 57
+[08-Jun-2014 15:16:46 Asia/Baghdad] PHP Notice:  Undefined offset: 6 in /var/www/html/pharmacy/class/backup.class.php on line 57
+[08-Jun-2014 15:16:46 Asia/Baghdad] PHP Notice:  Undefined offset: 7 in /var/www/html/pharmacy/class/backup.class.php on line 57
+[08-Jun-2014 15:16:46 Asia/Baghdad] PHP Notice:  Undefined offset: 0 in /var/www/html/pharmacy/class/backup.class.php on line 57
+[08-Jun-2014 15:16:46 Asia/Baghdad] PHP Notice:  Undefined offset: 1 in /var/www/html/pharmacy/class/backup.class.php on line 57
+[08-Jun-2014 15:16:46 Asia/Baghdad] PHP Notice:  Undefined offset: 2 in /var/www/html/pharmacy/class/backup.class.php on line 57
+[08-Jun-2014 15:16:46 Asia/Baghdad] PHP Notice:  Undefined offset: 3 in /var/www/html/pharmacy/class/backup.class.php on line 57
+[08-Jun-2014 15:16:46 Asia/Baghdad] PHP Notice:  Undefined offset: 4 in /var/www/html/pharmacy/class/backup.class.php on line 57
+[08-Jun-2014 15:16:46 Asia/Baghdad] PHP Notice:  Undefined offset: 5 in /var/www/html/pharmacy/class/backup.class.php on line 57
+[08-Jun-2014 15:16:46 Asia/Baghdad] PHP Notice:  Undefined offset: 6 in /var/www/html/pharmacy/class/backup.class.php on line 57
+[08-Jun-2014 15:16:46 Asia/Baghdad] PHP Notice:  Undefined offset: 7 in /var/www/html/pharmacy/class/backup.class.php on line 57
+[08-Jun-2014 15:18:51 Asia/Baghdad] PHP Notice:  Undefined index: jtSorting in /var/www/html/pharmacy/control/backup.control.php on line 9
+[08-Jun-2014 15:20:02 Asia/Baghdad] PHP Notice:  Undefined index: permission in /var/www/html/diwan/include/ribbon.php on line 6
+[08-Jun-2014 15:20:02 Asia/Baghdad] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/diwan/include/ribbon.php on line 6
+[08-Jun-2014 15:20:02 Asia/Baghdad] PHP Notice:  Undefined index: id_department in /var/www/html/diwan/include/ribbon.php on line 219
+[08-Jun-2014 15:20:57 Asia/Baghdad] PHP Notice:  Undefined index: jtSorting in /var/www/html/pharmacy/control/backup.control.php on line 9
+[08-Jun-2014 15:21:05 Asia/Baghdad] PHP Notice:  Undefined index: jtSorting in /var/www/html/pharmacy/control/backup.control.php on line 9
+[08-Jun-2014 15:22:11 Asia/Baghdad] PHP Notice:  Undefined index: jtSorting in /var/www/html/pharmacy/control/backup.control.php on line 9
+[08-Jun-2014 15:24:28 Asia/Baghdad] PHP Notice:  Undefined index: jtSorting in /var/www/html/pharmacy/control/backup.control.php on line 9
+[08-Jun-2014 15:24:54 Asia/Baghdad] PHP Notice:  Undefined index: jtSorting in /var/www/html/pharmacy/control/backup.control.php on line 9
+[08-Jun-2014 15:25:02 Asia/Baghdad] PHP Notice:  Undefined index: jtSorting in /var/www/html/pharmacy/control/backup.control.php on line 9
+[08-Jun-2014 15:25:26 Asia/Baghdad] PHP Notice:  Undefined index: jtSorting in /var/www/html/pharmacy/control/backup.control.php on line 9
+[08-Jun-2014 15:25:45 Asia/Baghdad] PHP Notice:  Undefined index: jtSorting in /var/www/html/pharmacy/control/backup.control.php on line 9
+[08-Jun-2014 15:26:09 Asia/Baghdad] PHP Notice:  Undefined index: jtSorting in /var/www/html/pharmacy/control/backup.control.php on line 9
+[08-Jun-2014 15:26:27 Asia/Baghdad] PHP Notice:  Undefined index: jtSorting in /var/www/html/pharmacy/control/backup.control.php on line 9
+[08-Jun-2014 15:26:59 Asia/Baghdad] PHP Notice:  Undefined index: jtSorting in /var/www/html/pharmacy/control/backup.control.php on line 9
+[08-Jun-2014 15:29:21 Asia/Baghdad] PHP Notice:  Undefined index: permission in /var/www/html/diwan/include/ribbon.php on line 6
+[08-Jun-2014 15:29:21 Asia/Baghdad] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/diwan/include/ribbon.php on line 6
+[08-Jun-2014 15:29:21 Asia/Baghdad] PHP Notice:  Undefined index: id_department in /var/www/html/diwan/include/ribbon.php on line 219
+[08-Jun-2014 15:41:01 Asia/Baghdad] PHP Notice:  Undefined index: id_location in /var/www/html/diwan/class/sell_facture.class.php on line 120
+[08-Jun-2014 16:43:52 Asia/Baghdad] PHP Notice:  Undefined variable: data in /var/www/html/pharmacy/class/backup.class.php on line 152
+[08-Jun-2014 16:43:52 Asia/Baghdad] PHP Notice:  Undefined variable: data in /var/www/html/pharmacy/class/backup.class.php on line 153
+[08-Jun-2014 17:25:33 Asia/Riyadh] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /var/www/html/pharmacy/class/backup.class.php on line 30
+[08-Jun-2014 17:25:39 Asia/Riyadh] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /var/www/html/pharmacy/class/backup.class.php on line 30
+[08-Jun-2014 17:25:45 Asia/Riyadh] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /var/www/html/pharmacy/class/backup.class.php on line 30

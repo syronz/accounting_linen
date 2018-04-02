@@ -1,0 +1,8 @@
+Array
+(
+    [name] => wwww
+    [username] => 
+    [password] => 
+    [id_permission] => 1
+    [phone] => 
+)

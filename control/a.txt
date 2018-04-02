@@ -1,0 +1,5 @@
+Array
+(
+    [dollar] => 50
+    [detail] => 
+)

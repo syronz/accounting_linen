@@ -1,0 +1,2003 @@
+#
+$
+Permission\'s List
+#
+User\'s List
+user
+#
+$
+User Activity\'s List
+#
+action
+#
+$
+#
+$
+User Activity\'s List
+#
+action
+User Activity\'s List
+#
+action
+#
+$
+#
+$
+User Activity\'s List
+#
+action
+User Activity\'s List
+#
+action
+#
+$
+#
+$
+User Activity\'s List
+#
+action
+User Activity\'s List
+#
+action
+#
+$
+ [Add New Facture]
+#
+Code
+M2
+ [Add New Facture]
+#
+Code
+M2
+$
+$ rate
+
+#
+Code
+M2
+Day
+Day
+Day
+#
+$
+#
+$
+$
+$ rate
+
+$
+$ rate
+
+Account\'s List
+Account\'s List
+Account\'s List
+Account\'s List
+Dollar Price\'s
+Account\'s List
+Account\'s List
+#
+$
+Account\'s List
+#
+$
+Branch\'s List
+#
+$
+#
+$
+Account\'s List
+Account\'s List
+#
+$
+#
+$
+$
+$ rate
+
+$
+$ rate
+
+User Activity\'s List
+#
+action
+#
+$
+Dollar Price\'s
+$
+$ rate
+
+$
+$ rate
+
+#
+$
+Dollar Price\'s
+#
+$
+$
+$ rate
+
+User Activity\'s List
+#
+action
+User Activity\'s List
+#
+action
+User Activity\'s List
+#
+action
+Day
+User Activity\'s List
+#
+action
+User Activity\'s List
+#
+action
+#
+$
+User Activity\'s List
+#
+action
+User Activity\'s List
+#
+action
+Day
+User Activity\'s List
+#
+action
+Day
+User Activity\'s List
+#
+action
+#
+$
+User Activity\'s List
+#
+action
+User Activity\'s List
+#
+action
+User Activity\'s List
+#
+action
+#
+$
+User Activity\'s List
+#
+action
+User Activity\'s List
+#
+action
+User Activity\'s List
+#
+action
+User Activity\'s List
+#
+action
+User Activity\'s List
+#
+action
+Permission\'s List
+#
+User\'s List
+user
+Permission\'s List
+#
+Permission\'s List
+#
+User\'s List
+user
+#
+$
+User Activity\'s List
+#
+action
+User Activity\'s List
+#
+action
+#
+$
+#
+$
+User Activity\'s List
+#
+action
+#
+#
+#
+$
+$ rate
+
+#
+#
+#
+$
+#
+$
+User Activity\'s List
+#
+action
+#
+$
+#
+$
+#
+$
+#
+$
+#
+$
+#
+#
+#
+$
+User Activity\'s List
+#
+action
+#
+#
+$
+Dollar Price\'s
+Dollar Price\'s
+Day
+Day
+#
+$
+#
+#
+Day
+Day
+Day
+Day
+Day
+Day
+#
+#
+$
+User Activity\'s List
+#
+action
+#
+$
+User Activity\'s List
+#
+action
+User Activity\'s List
+#
+action
+#
+$
+User Activity\'s List
+#
+action
+User Activity\'s List
+#
+action
+User Activity\'s List
+#
+action
+#
+$
+#
+$
+User Activity\'s List
+#
+action
+#
+#
+#
+Day
+#
+$
+#
+$
+#
+$
+$
+$ rate
+
+$
+$ rate
+
+Dollar Price\'s
+#
+$
+Dollar Price\'s
+User Activity\'s List
+#
+action
+Permission\'s List
+#
+User\'s List
+user
+Permission\'s List
+#
+User Activity\'s List
+#
+action
+#
+$
+#
+$
+#
+$
+#
+$
+#
+$
+$
+$ rate
+
+#
+$
+$
+$ rate
+
+$
+$ rate
+
+$
+$ rate
+
+$
+$ rate
+
+$
+$ rate
+
+#
+$
+#
+$
+#
+$
+$
+$ rate
+
+$
+$ rate
+
+#
+#
+$
+$
+$ rate
+
+$
+$ rate
+
+Day
+Day
+Day
+Day
+Day
+Day
+Day
+#
+$
+#
+$
+User Activity\'s List
+#
+action
+#
+$
+User Activity\'s List
+#
+action
+#
+$
+User Activity\'s List
+#
+action
+User Activity\'s List
+#
+action
+#
+$
+#
+$
+Dollar Price\'s
+$
+$ rate
+
+$
+$ rate
+
+User Activity\'s List
+#
+action
+Permission\'s List
+#
+Day
+User\'s List
+user
+User Activity\'s List
+#
+action
+Day
+Day
+#
+$
+User Activity\'s List
+#
+action
+User Activity\'s List
+#
+action
+#
+$
+Day
+#
+$
+User Activity\'s List
+#
+action
+#
+$
+$
+$ rate
+
+$
+$ rate
+
+Dollar Price\'s
+User Activity\'s List
+#
+action
+User Activity\'s List
+#
+action
+#
+$
+User Activity\'s List
+#
+action
+#
+$
+$
+$ rate
+
+$
+$ rate
+
+Dollar Price\'s
+Dollar Price\'s
+User Activity\'s List
+#
+action
+#
+$
+$
+$ rate
+
+#
+#
+Day
+Day
+Day
+Day
+User Activity\'s List
+#
+action
+#
+$
+Dollar Price\'s
+User Activity\'s List
+#
+action
+Day
+Day
+#
+Day
+Day
+#
+#
+#
+OK
+#
+Day
+Day
+Day
+Day
+Day
+Day
+#
+#
+#
+#
+$
+$ rate
+
+#
+#
+$
+#
+$
+User Activity\'s List
+#
+action
+#
+$
+$ rate
+
+User Activity\'s List
+#
+action
+OK
+#
+#
+OK
+#
+#
+#
+Day
+Day
+#
+$
+User Activity\'s List
+#
+action
+#
+$
+User Activity\'s List
+#
+action
+#
+$
+#
+$
+User Activity\'s List
+#
+action
+#
+$
+User Activity\'s List
+#
+action
+User Activity\'s List
+#
+action
+User Activity\'s List
+#
+action
+#
+#
+$
+#
+$
+User Activity\'s List
+#
+action
+#
+$
+#
+$
+#
+$
+User Activity\'s List
+#
+action
+#
+$
+User Activity\'s List
+#
+action
+Day
+Day
+Day
+#
+$
+User Activity\'s List
+#
+action
+#
+$
+#
+$
+User Activity\'s List
+#
+action
+#
+#
+#
+#
+$
+User Activity\'s List
+#
+action
+#
+$
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+Error
+#
+Error
+#
+Error
+#
+Error
+#
+Error
+#
+Error
+#
+Error
+#
+#
+Error
+#
+Error
+#
+#
+Error
+#
+Error
+#
+Error
+#
+Error
+#
+#
+Error
+#
+#
+$
+#
+Error
+User Activity\'s List
+#
+action
+User Activity\'s List
+#
+action
+#
+$
+$
+$ rate
+
+Dollar Price\'s
+Day
+#
+$
+User Activity\'s List
+#
+action
+Permission\'s List
+#
+#
+$
+#
+$
+User Activity\'s List
+#
+action
+User Activity\'s List
+#
+action
+#
+$
+User Activity\'s List
+#
+action
+User Activity\'s List
+#
+action
+#
+$
+#
+$
+User Activity\'s List
+#
+action
+#
+Error
+#
+Error
+#
+$
+User Activity\'s List
+#
+action
+#
+$
+User Activity\'s List
+#
+action
+#
+Error
+#
+Error
+#
+$
+User Activity\'s List
+#
+action
+#
+$
+#
+$
+#
+$
+User Activity\'s List
+#
+action
+User Activity\'s List
+#
+action
+#
+$
+#
+$
+User Activity\'s List
+#
+action
+#
+$
+User Activity\'s List
+#
+action
+#
+$
+#
+$
+User\'s List
+user
+Permission\'s List
+#
+User Activity\'s List
+#
+action
+#
+$
+User Activity\'s List
+#
+action
+Dollar Price\'s
+Dollar Price\'s
+#
+$
+#
+$
+User Activity\'s List
+#
+action
+#
+$
+Dollar Price\'s
+$
+$ rate
+
+$
+$ rate
+
+$
+$ rate
+
+#
+$
+#
+$
+#
+#
+Day
+#
+Error
+#
+Error
+#
+#
+$
+#
+$
+#
+$
+#
+$
+User Activity\'s List
+#
+action
+Day
+Day
+Day
+#
+Error
+#
+Error
+#
+Error
+#
+$
+User Activity\'s List
+#
+action
+#
+$
+User Activity\'s List
+#
+action
+User\'s List
+user
+Permission\'s List
+#
+#
+#
+#
+Error
+#
+#
+#
+#
+$
+$
+$ rate
+
+#
+#
+$
+User Activity\'s List
+#
+action
+#
+$
+$
+$ rate
+
+User Activity\'s List
+#
+action
+#
+$
+#
+$
+#
+$
+$
+$ rate
+
+#
+$
+#
+Error
+Day
+$
+$ rate
+
+$
+$ rate
+
+#
+$
+User Activity\'s List
+#
+action
+#
+Error
+#
+$
+User Activity\'s List
+#
+action
+#
+$
+User Activity\'s List
+#
+action
+#
+$
+$
+$ rate
+
+$
+$ rate
+
+#
+$
+$
+$ rate
+
+$
+$ rate
+
+#
+$
+#
+Error
+User Activity\'s List
+#
+action
+#
+$
+#
+$
+#
+$
+User Activity\'s List
+#
+action
+Day
+Day
+#
+Error
+Day
+Day
+Day
+Day
+#
+$
+Day
+Day
+Day
+Day
+Day
+Day
+Day
+Day
+Day
+#
+Error
+Day
+Day
+#
+$
+User Activity\'s List
+#
+action
+User Activity\'s List
+#
+action
+#
+$
+User Activity\'s List
+#
+action
+#
+Error
+#
+Day
+Day
+User Activity\'s List
+#
+action
+Day
+Day
+Day
+Day
+Day
+Day
+Day
+#
+$
+Day
+Day
+Day
+Day
+#
+$
+Day
+User Activity\'s List
+#
+action
+Day
+zebra
+store
+madani
+slight
+Day
+zebra
+store
+madani
+slight
+User Activity\'s List
+#
+action
+Day
+zebra
+store
+madani
+slight
+Day
+Day
+zebra
+store
+madani
+slight
+Day
+Day
+zebra
+store
+madani
+slight
+Day
+Day
+zebra
+store
+madani
+slight
+Day
+Day
+zebra
+store
+madani
+slight
+Day
+#
+$
+Day
+zebra
+store
+madani
+slight
+Day
+Day
+zebra
+store
+madani
+slight
+Day
+zebra
+store
+madani
+slight
+Day
+zebra
+store
+madani
+slight
+#
+$
+Day
+zebra
+store
+madani
+slight
+Day
+zebra
+store
+madani
+slight
+Day
+zebra
+store
+madani
+slight
+Day
+zebra
+store
+madani
+slight
+Day
+zebra
+store
+madani
+slight
+Day
+zebra
+store
+madani
+slight
+Day
+zebra
+store
+madani
+slight
+Day
+zebra
+store
+madani
+slight
+Day
+zebra
+store
+madani
+slight
+Day
+zebra
+store
+madani
+slight
+Day
+zebra
+store
+madani
+slight
+#
+$
+User Activity\'s List
+#
+action
+User Activity\'s List
+#
+action
+#
+$
+#
+$
+#
+$
+$
+$ rate
+
+$
+$ rate
+
+$
+$ rate
+
+$
+$ rate
+
+$
+$ rate
+
+$
+$ rate
+
+$
+$ rate
+
+#
+$
+$
+$ rate
+
+#
+$
+User Activity\'s List
+#
+action
+#
+$
+$
+$ rate
+
+User Activity\'s List
+#
+action
+#
+$
+$
+$ rate
+
+$
+$ rate
+
+#
+$
+User Activity\'s List
+#
+action
+#
+$
+$
+$ rate
+
+#
+$
+User Activity\'s List
+#
+action
+#
+$
+$
+$ rate
+
+#
+$
+$
+$ rate
+
+#
+$
+User Activity\'s List
+#
+action
+#
+$
+$
+$ rate
+
+$
+$ rate
+
+#
+$
+$
+$ rate
+
+#
+$
+$
+$ rate
+
+User Activity\'s List
+#
+action
+#
+$
+$
+$ rate
+
+#
+$
+$
+$ rate
+
+User Activity\'s List
+#
+action
+#
+$
+#
+$
+#
+$
+Description
+PayIN
+PayOut
+#
+$
+Description
+PayIN
+PayOut
+User Activity\'s List
+#
+action
+#
+$
+Description
+PayIN
+PayOut
+#
+$
+#
+$
+$
+$ rate
+
+#
+$
+All Transaction For Account : 
+Description
+PayIN
+PayOut
+#
+$
+All Transaction For Account : 
+User Activity\'s List
+#
+action
+#
+$
+All Transaction For Account : 
+#
+$
+User Activity\'s List
+#
+action
+#
+$
+All Transaction For Account : 
+Description
+PayIN
+PayOut
+#
+$
+Description
+PayIN
+PayOut
+#
+$
+Description
+PayIN
+PayOut
+Description
+PayIN
+PayOut
+$
+$ rate
+
+$
+$ rate
+
+User Activity\'s List
+#
+action
+#
+$
+Description
+PayIN
+PayOut
+Description
+PayIN
+PayOut
+#
+$
+Description
+PayIN
+PayOut
+User Activity\'s List
+#
+action
+#
+$
+Description
+PayIN
+PayOut
+User Activity\'s List
+#
+action
+#
+$
+Description
+PayIN
+PayOut
+User Activity\'s List
+#
+action
+#
+$
+#
+$
+#
+$
+User Activity\'s List
+#
+action
+#
+$
+User Activity\'s List
+#
+action
+#
+$
+Description
+PayIN
+PayOut
+Day
+Day
+zebra
+store
+madani
+slight
+Day
+zebra
+store
+madani
+slight
+Day
+zebra
+store
+madani
+slight
+Day
+zebra
+store
+madani
+slight
+User Activity\'s List
+#
+action
+#
+$
+Dollar Price\'s
+Description
+PayIN
+PayOut
+#
+$
+User Activity\'s List
+#
+action
+#
+$
+Day
+zebra
+store
+madani
+slight
+#
+$
+#
+$
+#
+$
+Description
+PayIN
+PayOut
+Day
+Day
+Day
+zebra
+store
+madani
+slight
+Day
+zebra
+store
+madani
+slight
+Day
+zebra
+store
+madani
+slight
+Day
+Day
+zebra
+store
+madani
+slight
+#
+Error
+Address: 
+#
+Day
+zebra
+store
+madani
+slight
+Day
+zebra
+store
+madani
+slight
+Day
+zebra
+store
+madani
+slight
+#
+Error
+Address: 
+$
+$ rate
+
+Address: 
+#
+#
+Error
+#
+Error
+#
+#
+Address: 
+#
+#
+Address: 
+$
+$ rate
+
+$
+$ rate
+
+#
+Error
+Address: 
+#
+Address: 
+$
+$ rate
+
+Address: 
+$
+$ rate
+
+Address: 
+$
+$ rate
+
+#
+Error
+#
+$
+#
+$
+User Activity\'s List
+#
+action
+#
+$
+Description
+PayIN
+PayOut
+User Activity\'s List
+#
+action
+Day
+zebra
+store
+madani
+slight
+#
+$
+Description
+PayIN
+PayOut
+#
+$
+User Activity\'s List
+#
+action
+#
+$
+#
+Error
+Address: 
+#
+Day
+User\'s List
+user
+Permission\'s List
+#
+#
+$
+#
+$
+#
+$
+#
+$
+User Activity\'s List
+#
+action
+User Activity\'s List
+#
+action
+User Activity\'s List
+#
+action
+#
+$
+User Activity\'s List
+#
+action
+#
+$
+Description
+PayIN
+PayOut
+#
+Error
+Address: 
+#
+Address: 
+#
+Address: 
+#
+Address: 
+#
+Address: 
+#
+#
+$
+Description
+PayIN
+PayOut
+#
+$
+#
+$
+Description
+PayIN
+PayOut
+#
+$
+$
+$ rate
+
+#
+$
+$
+$ rate
+
+#
+$
+Description
+PayIN
+PayOut
+#
+$
+Description
+PayIN
+PayOut
+#
+$
+Description
+PayIN
+PayOut
+$
+$ rate
+
+Description
+PayIN
+PayOut
+$
+$ rate
+
+Description
+PayIN
+PayOut
+#
+$
+$
+$ rate
+
+#
+$
+Description
+PayIN
+PayOut
+$
+$ rate
+
+$
+$ rate
+
+Description
+PayIN
+PayOut
+$
+$ rate
+
+Description
+PayIN
+PayOut
+#
+$
+$
+$ rate
+
+#
+$
+User Activity\'s List
+#
+action
+#
+$
+Description
+PayIN
+PayOut
+#
+Error
+#
+User Activity\'s List
+#
+action
+#
+$
+Description
+PayIN
+PayOut
+User Activity\'s List
+#
+action
+#
+$
+#
+$
+#
+$
+Description
+PayIN
+PayOut
+Day
+zebra
+store
+madani
+slight
+Day
+zebra
+store
+madani
+slight
+Day
+zebra
+store
+madani
+slight
+Day
+zebra
+store
+madani
+slight
+#
+Error
+OK
+#
+OK
+#
+OK
+#
+Day
+zebra
+store
+madani
+slight
+Day
+zebra
+store
+madani
+slight
+Day
+zebra
+store
+madani
+slight
+#
+Error
+#
+#
+Error
+Day
+zebra
+store
+madani
+slight
+Day
+zebra
+store
+madani
+slight
+User Activity\'s List
+#
+action
+#
+$
+Day
+zebra
+store
+madani
+slight
+Day
+zebra
+store
+madani
+slight
+#
+Error
+#
+#
+#
+OK
+#
+#
+OK
+#
+OK
+#
+OK
+#
+#
+Address: 
+OK
+#
+#
+#
+#
+Error
+#
+#
+Error
+OK
+#
+#
+Error
+#
+Error
+#
+Error
+#
+#
+Error
+#
+#
+Error
+#
+#
+Error
+#
+#
+Error
+#
+#
+Error
+#
+#
+#
+Error
+#
+#
+#
+#
+#
+#
+#
+Error
+#
+$
+#
+Error
+#
+#
+Error
+#
+Error
+#
+#
+Error
+#
+#
+Error
+#
+#
+Error
+#
+#
+Error
+#
+#
+#
+#
+#
+Day
+zebra
+store
+madani
+slight
+Day
+zebra
+store
+madani
+slight
+#
+Day
+zebra
+store
+madani
+slight
+Day
+zebra
+store
+madani
+slight
+User Activity\'s List
+#
+action
+Day
+zebra
+store
+madani
+slight
+Day
+zebra
+store
+madani
+slight
+Day
+zebra
+store
+madani
+slight
+Day
+zebra
+store
+madani
+slight
+Day
+zebra
+store
+madani
+slight
+Day
+zebra
+store
+madani
+slight
+Day
+zebra
+store
+madani
+slight
+Day
+zebra
+store
+madani
+slight
+Day
+zebra
+store
+madani
+slight
+Day
+zebra
+store
+madani
+slight
+Day
+zebra
+store
+madani
+slight
+Day
+zebra
+store
+madani
+slight
+#
+$
+Day
+zebra
+store
+madani
+slight
+Day
+zebra
+store
+madani
+slight
+Day
+zebra
+store
+madani
+slight
+Day
+zebra
+store
+madani
+slight
+Day
+zebra
+store
+madani
+slight
+#
+#
+#
+#
+#
+#
+#
+#
+#
+Error
+#
+Error
+#
+Error
+Day
+Day
+zebra
+store
+madani
+slight
+Day
+zebra
+store
+madani
+slight
+Day
+zebra
+store
+madani
+slight
+#
+Error
+OK
+#
+#
+Error
+OK
+#

@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+	
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Bootstrap 101 Template</title>
+		<!-- Bootstrap -->
+		<link href="css/bootstrap.min.css" rel="stylesheet">
+
+
+		<!-- DSH -->
+		<script src="js/jquery-2.1.1.min.js"></script>
+		<script>
+		$(document).ready(function(){
+			$('a').click(function(){
+				console.log(window.location.hash);
+			});
+		});
+		</script>
+
+		<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+		<!--[if lt IE 9]>
+			<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+			<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+		<![endif]-->
+		<style>
+			body {
+				background-color: #fff;
+			}
+			.container div {
+				/*border: 1px solid red;*/
+			}
+			.pagination {
+				margin: 0 0 -5px 0;
+				padding: 0;
+			}
+			.panel-footer {
+				padding: 3px;
+			}
+			.list-group {
+				/*min-height: 550px;*/
+			}
+			.jtable_text {
+				display:inline-block;
+				vertical-align: top;
+				padding: 7px 2px 0 5px;
+				font-size: smaller;
+				color: #555;
+				font-family: courier;
+			}
+			.jtable_select {
+				vertical-align: top;
+				margin-top: 1px;
+				background-color: #fff;
+				padding: 3px;
+				border-radius: 3px;
+				border: 1px solid #ddd;
+				color: #428bca;
+			}
+			.float_right {
+				float: right;
+			}
+			.alert {
+				margin-bottom: 0;
+			}
+		</style>
+	</head>
+	
+	<body>
+		<script type='text/javascript' src='js/resizable-tables.js'></script>
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12 col-md-12">
+					<nav class="navbar navbar-default" role="navigation">
+						<div class="container-fluid">
+							<!-- Brand and toggle get grouped for better mobile display -->
+							<div class="navbar-header">
+								<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">	<span class="sr-only">Toggle navigation</span>
+	<span class="icon-bar"></span>
+	<span class="icon-bar"></span>
+	<span class="icon-bar"></span>
+
+								</button>	<a class="navbar-brand" href="#Brand">Brand</a>
+
+							</div>
+							<!-- Collect the nav links, forms, and other content for toggling -->
+							<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+								<ul class="nav navbar-nav">
+									<li class="active"><a href="#link">Link</a>
+									</li>
+									<li><a href="#link2">Link2</a>
+									</li>
+									<li class="dropdown">	<a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
+
+										<ul class="dropdown-menu">
+											<li><a href="#Action">Action</a>
+											</li>
+											<li><a href="#">Another action</a>
+											</li>
+											<li><a href="#">Something else here</a>
+											</li>
+											<li class="divider"></li>
+											<li><a href="#">Separated link</a>
+											</li>
+											<li class="divider"></li>
+											<li><a href="#">One more separated link</a>
+											</li>
+										</ul>
+									</li>
+								</ul>
+								<ul class="nav navbar-nav navbar-left">
+									<li><a href="#">Link</a>
+									</li>
+									<li class="dropdown">	<a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
+
+										<ul class="dropdown-menu">
+											<li><a href="#">Action</a>
+											</li>
+											<li><a href="#">Another action</a>
+											</li>
+											<li><a href="#">Something else here</a>
+											</li>
+											<li class="divider"></li>
+											<li><a href="#">Separated link</a>
+											</li>
+										</ul>
+									</li>
+								</ul>
+								<form class="navbar-form navbar-right" role="search">
+									<div class="form-group">
+										<input type="search" class="form-control" placeholder="Search">
+									</div>
+									<button type="submit" class="btn btn-default">Submit</button>
+								</form>
+							</div>
+							<!-- /.navbar-collapse -->
+						</div>
+						<!-- /.container-fluid -->
+					</nav>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-9">
+					<!-- <ol class="breadcrumb">
+						<li><a href="#">Home</a></li>
+						<li><a href="#">Library</a></li>
+						<li class="active">Data</li>
+					</ol> -->
+					<div class="panel panel-primary">
+						<div class="panel-heading">Panel heading without title [Home / Library / Data]</div>
+						<div class="panel-body">
+							<div class="alert alert-danger"><strong>Oh snap!</strong> "Change a few things up and try submitting again."</div>
+						</div>
+						<table id='table1' class='table table-bordered table-striped table-striped resizable'>
+							<tr>
+								<th width='10%'>cell 11</th>
+								<th width='20%'>cell 12</th>
+								<th width='40%'>cell 13</th>
+							</tr>
+							<tr>
+								<td>cell 21</td>
+								<td>cell 22</td>
+								<td>cell 23</td>
+							</tr>
+							<tr>
+								<td>cell 31</td>
+								<td>cell 32</td>
+								<td>cell 33</td>
+							</tr>
+						</table>
+						<div class="panel-footer">
+							<ul class="pagination pagination-sm">
+								<li class="disabled"><a href="#">&laquo;</a>
+								</li>
+								<li class="active"><a href="#">1</a>
+								</li>
+								<li><a href="#">2</a>
+								</li>
+								<li><a href="#">3</a>
+								</li>
+								<li><a href="#">4</a>
+								</li>
+								<li><a href="#">5</a>
+								</li>
+								<li><a href="#">&raquo;</a>
+								</li>
+							</ul>	<span class="jtable_text">go to page:</span>
+
+							<select class="jtable_select">
+								<option value="1">1</option>
+								<option value="2">2</option>
+								<option value="3">3</option>
+								<option value="4">4</option>
+								<option value="5">5</option>
+								<option value="6">6</option>
+								<option value="7">7</option>
+							</select>	<span class="jtable_text">row count:</span>
+
+							<select class="jtable_select">
+								<option value="1">10</option>
+								<option value="2">25</option>
+								<option value="3">50</option>
+								<option value="4">100</option>
+								<option value="5">250</option>
+								<option value="6">500</option>
+								<option value="7">1000</option>
+							</select>	<span class="jtable_text float_right">Showing 1-10 of 3654</span>
+
+						</div>
+					</div>
+				</div>
+				<div class="col-md-3  col-md-offset-0">
+					<div class="list-group">	<a href="#" class="list-group-item active">
+						Cras justo odio
+					</a>
+	<a href="#" class="list-group-item">Dapibus ac facilisis in</a>
+	<a href="#" class="list-group-item">Morbi leo risus</a>
+	<a href="#" class="list-group-item">Porta ac consectetur ac</a>
+	<a href="#" class="list-group-item">Vestibulum at eros</a>
+
+					</div>
+					<div class="thumbnail">
+						<img src="images/light.png" alt="...">
+						<div class="caption">
+								<h3>Thumbnail label</h3>
+
+							<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-12">
+					<div class="well well-sm" style="margin-bottom:0">Footer</div>
+				</div>
+			</div>
+		</div>
+		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+		<!-- Include all compiled plugins (below), or include individual files as needed -->
+		<script src="js/bootstrap.min.js"></script>
+	</body>
+
+</html>

@@ -1,0 +1,8 @@
+Array
+(
+    [id_cat] => 1
+    [name] => dwdq
+    [price] => 2222
+    [qty] => 
+    [detail] => 
+)
